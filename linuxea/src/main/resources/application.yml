@@ -1,0 +1,23 @@
+server:
+  port: 8086
+
+tess4j:
+  path: data/tessdata
+
+account:
+  jiuzhou:
+    username: mandy23
+    password: qaz123qwe
+  bbin:
+    username: a860314342
+    password: callme11
+  fenghuang:
+    username: a860314342
+    password: callme11
+
+
+
+
+
+
+
